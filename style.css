@@ -1,0 +1,21 @@
+body {
+    color: aqua;
+    background: yellow;
+}
+
+.heading {
+    width: 80%;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#camera {
+    border: 2px dashed=navy;
+    width: 350px;
+    height: 350px;
+    
+}
+
+.name_of_objects , #result_object_name , #result_object-accuracy {
+    color: blueviolet;
+}
